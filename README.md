@@ -1,2 +1,2 @@
-# buffer_overflow_howto
-Buffer Overflow Guide!
+# Stack-based Buffer Overflows
+### Windows x86 Edition
