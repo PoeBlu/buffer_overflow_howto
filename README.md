@@ -2,7 +2,7 @@
 ### Windows x86 Edition
 #### Learn by Doing!
 
-For PWKers and aspiring pentesters, I've created a walkthrough of how to perform a stack-based buffer overflow against a vulnerable program, Seatttle Lab Mail 5.5. 
+For PWKers and aspiring pentesters, I've created a walkthrough of how to perform a stack-based buffer overflow exploit against a vulnerable program, Seattle Lab Mail 5.5. 
 
 #### Requirements
 * Windows VM (Win10)
